@@ -1,10 +1,10 @@
 # Developing a Neural Network Regression Model
 
-## AIM
+### AIM
 
 To develop a neural network regression model for the given dataset.
 
-## THEORY
+### THEORY
 <div style="font-size: 40px">
 <b>
 A Neural Network is a computational model inspired by the structure and function of the human brain. It consists of interconnected nodes, or neurons, organized into layers. Information flows through these neurons, with each neuron receiving input, processing it, and passing the output to the next layer of neurons. The connections between neurons are governed by weights, which determine the strength of the connections.
@@ -15,11 +15,11 @@ The  neural network regression model for data stored in a Google Sheets document
 </b>
 </div>
 
-## Neural Network Model
+### Neural Network Model
 
 ![DIAGRAM](nn_diagram.png)
 
-## DESIGN STEPS
+### DESIGN STEPS
 
 ### STEP 1:
 
@@ -49,9 +49,9 @@ Plot the performance plot
 
 Evaluate the model with the testing data.
 
-## PROGRAM
-### NAME : ARSHAD AHMED M
-### REGISTER NUMBER : 212222040014
+### PROGRAM
+#### NAME : ARSHAD AHMED M
+#### REGISTER NUMBER : 212222040014
 ```py
 
 #import authentication modules
@@ -125,11 +125,11 @@ ai_brain.predict(X_n1_1)
 
 
 ```
-## Dataset Information
+### Dataset Information
 
 ![DATASET](Screenshot%202024-03-03%20170648.png)
 
-## OUTPUT
+### OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
@@ -143,6 +143,6 @@ ai_brain.predict(X_n1_1)
 
 ![PREDICTION](Screenshot%202024-03-03%20170951.png)
 
-## RESULT
+### RESULT
 
 Thus to develop a neural network regression model for the dataset created is successfully executed.
